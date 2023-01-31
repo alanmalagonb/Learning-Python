@@ -39,8 +39,6 @@ decades = calculate_decades(int(user_age))
 print(decades)
 
 """
-Summary
-
 Data Types
     Numbers (Integers & Floats)
     Strings
